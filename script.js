@@ -98,5 +98,5 @@
   });
 
 function vote() {
-    alert();
+   // alert();
 }
