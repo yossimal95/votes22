@@ -1,1 +1,1 @@
-https://yossimal95.github.io/vots22/
+https://yossimal95.github.io/votes22/
